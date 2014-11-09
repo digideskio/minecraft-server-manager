@@ -3259,7 +3259,7 @@ register_settings() {
 	register_setting RDIFF_BACKUP_ROTATION "7"
 
 
-	register_setting UPDATE_URL "https://raw.github.com/marcuswhybrow/minecraft-server-manager/latest"
+	register_setting UPDATE_URL "https://raw.githubusercontent.com/wid/minecraft-server-manager/master/init/msm"
 
 	register_setting WORLD_ARCHIVE_PATH "/opt/msm/archives/worlds"
 	register_setting LOG_ARCHIVE_PATH "/opt/msm/archives/logs"
